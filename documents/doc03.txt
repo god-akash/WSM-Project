@@ -1,0 +1,2 @@
+Search engines help users find information on the internet.
+Modern search systems use indexing and retrieval techniques.

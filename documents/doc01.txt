@@ -1,0 +1,2 @@
+Information retrieval is the process of finding useful information from documents.
+Search engines use information retrieval techniques.
